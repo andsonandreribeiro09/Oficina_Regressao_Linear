@@ -31,5 +31,5 @@ Este repositório contém o material da oficina prática de Ciência de Dados, m
 
 ## 👨‍🏫 Autoria
 
-Desenvolvido por: [Seu nome]  
+Desenvolvido por: Andson Andre Ribeiro
 Orientação: Prof. Ítalo S. Vega - PUC-SP
