@@ -108,5 +108,5 @@ Disciplina: Consultoria Especializada de Apoio ao Projeto Integrado: Engenharia 
 Curso: Ciência de Dados e Inteligência Artificial — PUC-SP
 Prof. Ítalo S. Vega - PUC-SP
 
-[![Assista no YouTube](https://www.youtube.com/watch?v=38jH0gvMLvc)
+[![Assista no YouTube](https://img.shields.io/badge/🎥%20Ver%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=38jH0gvMLvc)
 
