@@ -73,11 +73,10 @@ Relacionamentos:
 
 ---
 
-## 🧹 Limpeza Estatística (sugestão para expandir)
+## 🧹 Limpeza Estatística
 - [ ] Verificar valores nulos com `df.isnull().sum()`
 - [ ] Análise de distribuição com `.describe()`
 - [ ] Identificação de outliers com boxplot
-> *Essas etapas podem ser incluídas como boas práticas para garantir robustez.*
 
 ---
 
