@@ -107,3 +107,6 @@ Andson Ribeiro
 Disciplina: Consultoria Especializada de Apoio ao Projeto Integrado: Engenharia de Software  
 Curso: Ciência de Dados e Inteligência Artificial — PUC-SP
 Prof. Ítalo S. Vega - PUC-SP
+
+[![Assista no YouTube](https://www.youtube.com/watch?v=38jH0gvMLvc)
+
