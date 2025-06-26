@@ -119,4 +119,4 @@ Personagem fictícia Elisa Rocha
 ![image](https://github.com/user-attachments/assets/4cec8d38-c9da-48be-a5ac-23b932e3cbe6)
 
 
-[![Assista no YouTube](https://img.shields.io/badge/🎥%20Ver%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=nlfJvUv01Zg)
+[![Assista no YouTube](https://img.shields.io/badge/🎥%20Ver%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=uMTWVUbJ-7M)
