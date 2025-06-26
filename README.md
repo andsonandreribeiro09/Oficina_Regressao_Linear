@@ -101,10 +101,22 @@ O projeto serve como ponte entre teoria e prática, com grande potencial educati
 
 ---
 
-## 👨‍🏫 Autoria
-Andson Ribeiro  
-Disciplina: Consultoria Especializada de Apoio ao Projeto Integrado: Engenharia de Software  
-Curso: Ciência de Dados e Inteligência Artificial — PUC-SP
+Pontíficia universidade Católica São Paulo
+
+👨‍🏫 Autoria
+Andson Andre Ribeiro
+Disciplina: 
+Consultoria Especializada de Apoio  ao Projeto Integrado: 
+
+Engenharia de Software
+Curso: 
+Ciência de Dados e Inteligência Artificial — PUC-SP 
+
 Prof. Ítalo S. Vega - PUC-SP
 
-[![Assista no YouTube](https://img.shields.io/badge/🎥%20Ver%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=c3TCn_re4FQ)
+Personagem fictícia Elisa Rocha 
+
+![image](https://github.com/user-attachments/assets/4cec8d38-c9da-48be-a5ac-23b932e3cbe6)
+
+
+[![Assista no YouTube](https://img.shields.io/badge/🎥%20Ver%20no%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=nlfJvUv01Zg)
